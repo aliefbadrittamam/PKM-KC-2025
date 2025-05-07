@@ -1,0 +1,23 @@
+4. TraceFood: AI untuk Jejak Produksi UMKM Pangan - Adit
+SDG Terkait: SDG 12 (Responsible Consumption and Production), SDG 3 (Good Health and Well-being)
+Permasalahan: UMKM pangan kesulitan memenuhi standar keamanan dan traceability untuk pasar premium dan ekspor.
+AI Solution: Sistem terintegrasi berbasis blockchain dan AI yang mencatat dan memverifikasi proses produksi pangan dari hulu ke hilir secara transparan dan terverifikasi.
+Fitur Unggulan:
+Sertifikasi digital otomatis yang terintegrasi dengan standar nasional
+QR code untuk konsumen yang menampilkan asal bahan, proses produksi, dan jalur distribusi
+Dampak: Peningkatan kepercayaan konsumen, akses ke pasar ekspor dan premium, serta standarisasi keamanan pangan UMKM.
+Keberlanjutan: Model tiered pricing berdasarkan skala usaha dan kemitraan dengan jaringan ritel modern.
+
+Metrik Dampak untuk Semua Proyek:
+Jumlah pengguna aktif dan tingkat retensi
+Peningkatan pendapatan atau efisiensi yang terukur
+Testimoni dan studi kasus keberhasilan
+Adopsi teknologi di kelompok target
+Kontribusi terhadap indikator SDGs terkait
+
+Pendekatan Implementasi:
+
+Pengembangan prototype fungsional dengan pendekatan lean startup
+Uji coba dengan kelompok pengguna terbatas sebelum scaling
+Tim multidisiplin yang mencakup keahlian teknologi, domain knowledge, dan bisnis
+Kemitraan strategis dengan stakeholder relevan untuk mempercepat adopsi
